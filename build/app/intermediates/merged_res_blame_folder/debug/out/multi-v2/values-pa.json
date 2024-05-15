@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SHUBH\\Downloads\\MSA\\MSA\\MSA\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "C:\\M\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\d08226bede978f5b20ac14663211dda5\\transformed\\appcompat-1.6.1\\res\\values-pa\\values-pa.xml",
@@ -38,6 +38,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\7fd406cca818c9ddb30a674046c39d3f\\transformed\\jetified-exoplayer-core-2.18.5\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,191,268,334,409,475,574,670",
+                        "endColumns": "70,64,76,65,74,65,98,95,84",
+                        "endOffsets": "121,186,263,329,404,470,569,665,750"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,83,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8442,8513,8578,8655,8721,8796,8862,8961,9057",
+                        "endColumns": "70,64,76,65,74,65,98,95,84",
+                        "endOffsets": "8508,8573,8650,8716,8791,8857,8956,9052,9137"
+                    }
+                },
+                {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\48eee5ea861c2a38d42fd9740b060b2d\\transformed\\core-1.10.1\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -52,23 +69,6 @@
                         "startOffsets": "2767,2865,2967,3070,3171,3273,3371,9540",
                         "endColumns": "97,101,102,100,101,97,128,100",
                         "endOffsets": "2860,2962,3065,3166,3268,3366,3495,9636"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\96b3384f46a42e69e8f7cb17b2e9ba5a\\transformed\\jetified-exoplayer-core-2.18.7\\res\\values-pa\\values-pa.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,126,191,268,334,409,475,574,670",
-                        "endColumns": "70,64,76,65,74,65,98,95,84",
-                        "endOffsets": "121,186,263,329,404,470,569,665,750"
-                    },
-                    "to": {
-                        "startLines": "78,79,80,81,82,83,84,85,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8442,8513,8578,8655,8721,8796,8862,8961,9057",
-                        "endColumns": "70,64,76,65,74,65,98,95,84",
-                        "endOffsets": "8508,8573,8650,8716,8791,8857,8956,9052,9137"
                     }
                 },
                 {

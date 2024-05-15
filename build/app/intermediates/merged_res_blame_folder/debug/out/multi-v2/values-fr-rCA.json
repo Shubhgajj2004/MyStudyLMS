@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SHUBH\\Downloads\\MSA\\MSA\\MSA\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "C:\\M\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\96b3384f46a42e69e8f7cb17b2e9ba5a\\transformed\\jetified-exoplayer-core-2.18.7\\res\\values-fr-rCA\\values-fr-rCA.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,129,194,272,344,427,503,600,693",
-                        "endColumns": "73,64,77,71,82,75,96,92,91",
-                        "endOffsets": "124,189,267,339,422,498,595,688,780"
-                    },
-                    "to": {
-                        "startLines": "78,79,80,81,82,83,84,85,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8767,8841,8906,8984,9056,9139,9215,9312,9405",
-                        "endColumns": "73,64,77,71,82,75,96,92,91",
-                        "endOffsets": "8836,8901,8979,9051,9134,9210,9307,9400,9492"
-                    }
-                },
                 {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\632004458f92fde6d813d0b7cc1aefb6\\transformed\\browser-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
@@ -69,6 +52,23 @@
                         "startOffsets": "7311",
                         "endColumns": "160",
                         "endOffsets": "7467"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\7fd406cca818c9ddb30a674046c39d3f\\transformed\\jetified-exoplayer-core-2.18.5\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,194,272,344,427,503,600,693",
+                        "endColumns": "73,64,77,71,82,75,96,92,91",
+                        "endOffsets": "124,189,267,339,422,498,595,688,780"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,83,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8767,8841,8906,8984,9056,9139,9215,9312,9405",
+                        "endColumns": "73,64,77,71,82,75,96,92,91",
+                        "endOffsets": "8836,8901,8979,9051,9134,9210,9307,9400,9492"
                     }
                 },
                 {

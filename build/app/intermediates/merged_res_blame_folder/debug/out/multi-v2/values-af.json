@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SHUBH\\Downloads\\MSA\\MSA\\MSA\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+            "outputFile": "C:\\M\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\96b3384f46a42e69e8f7cb17b2e9ba5a\\transformed\\jetified-exoplayer-core-2.18.7\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,184,250,317,392,462,551,635",
-                        "endColumns": "68,59,65,66,74,69,88,83,71",
-                        "endOffsets": "119,179,245,312,387,457,546,630,702"
-                    },
-                    "to": {
-                        "startLines": "78,79,80,81,82,83,84,85,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8330,8399,8459,8525,8592,8667,8737,8826,8910",
-                        "endColumns": "68,59,65,66,74,69,88,83,71",
-                        "endOffsets": "8394,8454,8520,8587,8662,8732,8821,8905,8977"
-                    }
-                },
                 {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\632004458f92fde6d813d0b7cc1aefb6\\transformed\\browser-1.6.0\\res\\values-af\\values-af.xml",
                     "from": {
@@ -103,6 +86,23 @@
                         "startOffsets": "6029,6136,6292,6418,6528,6678,6800,6921,7166,7332,7440,7597,7724,7863,8017,8083,8146",
                         "endColumns": "106,155,125,109,149,121,120,101,165,107,156,126,138,153,65,62,78",
                         "endOffsets": "6131,6287,6413,6523,6673,6795,6916,7018,7327,7435,7592,7719,7858,8012,8078,8141,8220"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\7fd406cca818c9ddb30a674046c39d3f\\transformed\\jetified-exoplayer-core-2.18.5\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,184,250,317,392,462,551,635",
+                        "endColumns": "68,59,65,66,74,69,88,83,71",
+                        "endOffsets": "119,179,245,312,387,457,546,630,702"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,83,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8330,8399,8459,8525,8592,8667,8737,8826,8910",
+                        "endColumns": "68,59,65,66,74,69,88,83,71",
+                        "endOffsets": "8394,8454,8520,8587,8662,8732,8821,8905,8977"
                     }
                 },
                 {

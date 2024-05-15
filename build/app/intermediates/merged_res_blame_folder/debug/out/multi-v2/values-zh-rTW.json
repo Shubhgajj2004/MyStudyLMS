@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SHUBH\\Downloads\\MSA\\MSA\\MSA\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "outputFile": "C:\\M\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\48eee5ea861c2a38d42fd9740b060b2d\\transformed\\core-1.10.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\7fd406cca818c9ddb30a674046c39d3f\\transformed\\jetified-exoplayer-core-2.18.5\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,167,224,277,347,401,477,555",
+                        "endColumns": "55,55,56,52,69,53,75,77,58",
+                        "endOffsets": "106,162,219,272,342,396,472,550,609"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,83,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7449,7505,7561,7618,7671,7741,7795,7871,7949",
+                        "endColumns": "55,55,56,52,69,53,75,77,58",
+                        "endOffsets": "7500,7556,7613,7666,7736,7790,7866,7944,8003"
+                    }
+                },
+                {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\632004458f92fde6d813d0b7cc1aefb6\\transformed\\browser-1.6.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -35,23 +52,6 @@
                         "startOffsets": "7365,8008,8100,8201",
                         "endColumns": "83,91,100,92",
                         "endOffsets": "7444,8095,8196,8289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\96b3384f46a42e69e8f7cb17b2e9ba5a\\transformed\\jetified-exoplayer-core-2.18.7\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,111,167,224,277,347,401,477,555",
-                        "endColumns": "55,55,56,52,69,53,75,77,58",
-                        "endOffsets": "106,162,219,272,342,396,472,550,609"
-                    },
-                    "to": {
-                        "startLines": "78,79,80,81,82,83,84,85,86",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7449,7505,7561,7618,7671,7741,7795,7871,7949",
-                        "endColumns": "55,55,56,52,69,53,75,77,58",
-                        "endOffsets": "7500,7556,7613,7666,7736,7790,7866,7944,8003"
                     }
                 },
                 {
