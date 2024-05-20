@@ -28,7 +28,8 @@ class ColorApp {
   }
 
   void setMainColorHex(String mainColorHex) {
-    mainColor = HexColor.fromHex(mainColorHex);
+    // mainColor = HexColor.fromHex(mainColorHex);
+    mainColor = Color(0xFF8DC63F);
   }
 
   void setSecondaryColorRGB(ColorBean colorBean) {
@@ -41,6 +42,7 @@ class ColorApp {
   }
 
   void setSecondaryColorHex(String secondaryColorHex) {
-    secondaryColor = HexColor.fromHex(secondaryColorHex);
+    // secondaryColor = HexColor.fromHex(secondaryColorHex);
+    secondaryColor = Color(0xFF000000);
   }
 }

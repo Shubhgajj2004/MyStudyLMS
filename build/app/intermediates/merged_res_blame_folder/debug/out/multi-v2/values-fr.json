@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\M\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "outputFile": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\f8073903e91ef69b034032b4db8f2e9a\\transformed\\jetified-facebook-login-16.3.0\\res\\values-fr\\values-fr.xml",

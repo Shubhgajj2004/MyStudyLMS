@@ -56,7 +56,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.stylemixthemes.masterstudyapp"
+        applicationId "com.wes.tapeditgo"
         minSdkVersion 21
         targetSdkVersion 34
         versionCode flutterVersionCode.toInteger()

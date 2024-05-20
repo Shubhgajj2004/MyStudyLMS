@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\M\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\632004458f92fde6d813d0b7cc1aefb6\\transformed\\browser-1.6.0\\res\\values\\values.xml",
@@ -59,22 +59,39 @@
                     }
                 },
                 {
-                    "source": "C:\\M\\masterstudyapplication_release\\build\\flutter_inappwebview_android\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,11,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,102,153,210,259,306,353,426,502",
-                        "endLines": "2,3,4,5,6,7,10,13,21",
-                        "endColumns": "46,50,56,48,46,46,12,12,12",
-                        "endOffsets": "97,148,205,254,301,348,421,497,949"
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,807",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "465,971"
                     },
                     "to": {
-                        "startLines": "729,730,731,732,733,809,819,1920,2324",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "40023,40070,40121,40178,40227,47696,48445,118248,146981",
-                        "endLines": "729,730,731,732,733,809,821,1922,2331",
-                        "endColumns": "46,50,56,48,46,46,12,12,12",
-                        "endOffsets": "40065,40116,40173,40222,40269,47738,48513,118319,147428"
+                        "startLines": "1923,1986",
+                        "startColumns": "4,4",
+                        "startOffsets": "118324,121147",
+                        "endLines": "1927,1988",
+                        "endColumns": "12,12",
+                        "endOffsets": "118616,121311"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\build\\app\\generated\\crashlytics\\res\\debug\\values\\com_crashlytics_build_id.xml",
+                    "from": {
+                        "startLines": "8",
+                        "startColumns": "0",
+                        "startOffsets": "311",
+                        "endColumns": "158",
+                        "endOffsets": "469"
+                    },
+                    "to": {
+                        "startLines": "743",
+                        "startColumns": "4",
+                        "startOffsets": "40917",
+                        "endColumns": "160",
+                        "endOffsets": "41073"
                     }
                 },
                 {
@@ -133,6 +150,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\553efa93ee081e414f443cd437e62465\\transformed\\jetified-firebase-messaging-23.3.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "81",
+                        "endOffsets": "132"
+                    },
+                    "to": {
+                        "startLines": "802",
+                        "startColumns": "4",
+                        "startOffsets": "46990",
+                        "endColumns": "81",
+                        "endOffsets": "47067"
+                    }
+                },
+                {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\ba9cd8209d7cac076ce90aa40ce8e54d\\transformed\\jetified-play-services-base-18.0.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -152,20 +186,20 @@
                     }
                 },
                 {
-                    "source": "C:\\M\\masterstudyapplication_release\\build\\app\\generated\\crashlytics\\res\\debug\\values\\com_crashlytics_build_id.xml",
+                    "source": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\build\\firebase_crashlytics\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "8",
-                        "startColumns": "0",
-                        "startOffsets": "311",
-                        "endColumns": "158",
-                        "endOffsets": "469"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
                     },
                     "to": {
-                        "startLines": "743",
+                        "startLines": "377",
                         "startColumns": "4",
-                        "startOffsets": "40917",
-                        "endColumns": "160",
-                        "endOffsets": "41073"
+                        "startOffsets": "16747",
+                        "endColumns": "60",
+                        "endOffsets": "16803"
                     }
                 },
                 {
@@ -186,20 +220,20 @@
                     }
                 },
                 {
-                    "source": "C:\\M\\masterstudyapplication_release\\build\\firebase_crashlytics\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "60",
-                        "endOffsets": "111"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,309,391,495,604,724,823",
+                        "endColumns": "143,109,81,103,108,119,98,75",
+                        "endOffsets": "194,304,386,490,599,719,818,894"
                     },
                     "to": {
-                        "startLines": "377",
-                        "startColumns": "4",
-                        "startOffsets": "16747",
-                        "endColumns": "60",
-                        "endOffsets": "16803"
+                        "startLines": "786,803,804,805,806,807,808,811",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "45771,47072,47182,47264,47368,47477,47597,47803",
+                        "endColumns": "143,109,81,103,108,119,98,75",
+                        "endOffsets": "45910,47177,47259,47363,47472,47592,47691,47874"
                     }
                 },
                 {
@@ -255,25 +289,6 @@
                         "startOffsets": "45915,45985,46047,46112,46176,46253,46318,46408,46492",
                         "endColumns": "69,61,64,63,76,64,89,83,68",
                         "endOffsets": "45980,46042,46107,46171,46248,46313,46403,46487,46556"
-                    }
-                },
-                {
-                    "source": "C:\\M\\masterstudyapplication_release\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,807",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,971"
-                    },
-                    "to": {
-                        "startLines": "1923,1986",
-                        "startColumns": "4,4",
-                        "startOffsets": "118324,121147",
-                        "endLines": "1927,1988",
-                        "endColumns": "12,12",
-                        "endOffsets": "118616,121311"
                     }
                 },
                 {
@@ -368,23 +383,6 @@
                     }
                 },
                 {
-                    "source": "C:\\M\\masterstudyapplication_release\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,309,391,495,604,724,823",
-                        "endColumns": "143,109,81,103,108,119,98,75",
-                        "endOffsets": "194,304,386,490,599,719,818,894"
-                    },
-                    "to": {
-                        "startLines": "786,803,804,805,806,807,808,811",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "45771,47072,47182,47264,47368,47477,47597,47803",
-                        "endColumns": "143,109,81,103,108,119,98,75",
-                        "endOffsets": "45910,47177,47259,47363,47472,47592,47691,47874"
-                    }
-                },
-                {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\1cfabdffa27b8bd39d77311b15798441\\transformed\\jetified-startup-runtime-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -421,7 +419,7 @@
                     }
                 },
                 {
-                    "source": "C:\\M\\masterstudyapplication_release\\android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -457,40 +455,6 @@
                     }
                 },
                 {
-                    "source": "C:\\M\\masterstudyapplication_release\\android\\app\\src\\main\\res\\values\\string.xml",
-                    "from": {
-                        "startLines": "2,3,5,4",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,104,235,164",
-                        "endColumns": "48,59,82,70",
-                        "endOffsets": "99,159,313,230"
-                    },
-                    "to": {
-                        "startLines": "735,796,797,801",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "40357,46561,46621,46919",
-                        "endColumns": "48,59,82,70",
-                        "endOffsets": "40401,46616,46699,46985"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\3414219ca5f4e05c571fd69a3ea80b32\\transformed\\jetified-firebase-messaging-23.1.2\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "81",
-                        "endOffsets": "132"
-                    },
-                    "to": {
-                        "startLines": "802",
-                        "startColumns": "4",
-                        "startOffsets": "46990",
-                        "endColumns": "81",
-                        "endOffsets": "47067"
-                    }
-                },
-                {
                     "source": "C:\\Users\\SHUBH\\.gradle\\caches\\transforms-3\\e4a16437da0c42e05bc9407e8535420f\\transformed\\jetified-activity-1.7.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -505,6 +469,42 @@
                         "startOffsets": "36416,37548",
                         "endColumns": "41,59",
                         "endOffsets": "36453,37603"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\build\\flutter_inappwebview_android\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,153,210,259,306,353,426,502",
+                        "endLines": "2,3,4,5,6,7,10,13,21",
+                        "endColumns": "46,50,56,48,46,46,12,12,12",
+                        "endOffsets": "97,148,205,254,301,348,421,497,949"
+                    },
+                    "to": {
+                        "startLines": "729,730,731,732,733,809,819,1920,2324",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "40023,40070,40121,40178,40227,47696,48445,118248,146981",
+                        "endLines": "729,730,731,732,733,809,821,1922,2331",
+                        "endColumns": "46,50,56,48,46,46,12,12,12",
+                        "endOffsets": "40065,40116,40173,40222,40269,47738,48513,118319,147428"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHUBH\\Desktop\\masterstudyapplication_release\\android\\app\\src\\main\\res\\values\\string.xml",
+                    "from": {
+                        "startLines": "2,3,5,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,235,164",
+                        "endColumns": "48,59,82,70",
+                        "endOffsets": "99,159,313,230"
+                    },
+                    "to": {
+                        "startLines": "735,796,797,801",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "40357,46561,46621,46919",
+                        "endColumns": "48,59,82,70",
+                        "endOffsets": "40401,46616,46699,46985"
                     }
                 },
                 {

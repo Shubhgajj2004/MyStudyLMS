@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../../../../../../Downloads/MSA/MSA/MSA/masterstudyapplication_release/android/app/release/output-metadata.json
